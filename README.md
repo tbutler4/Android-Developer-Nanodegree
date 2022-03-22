@@ -1,2 +1,2 @@
-# Android-dice-roller-app
-Click roll to roll the dice.
+# Android-Developer-Nanodegree
+Collection of android apps I've built during my android nanodegree in partnership with Google and Udacity.
